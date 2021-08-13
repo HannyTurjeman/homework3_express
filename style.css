@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    text-align: center;
+}
+
+nav {
+    height: 100px;
+    width: 100%;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 40px;
+}
